@@ -9,7 +9,7 @@ define('DB_NAME', 'proyectoy');
 define('GOOGLE_CLIENT_ID', 'YOUR_GOOGLE_CLIENT_ID');
 define('GOOGLE_CLIENT_SECRET', 'YOUR_GOOGLE_CLIENT_SECRET');
 define('GOOGLE_REDIRECT_URI', 'http://localhost/ProyectoY/google_callback.php');
-
+ 
 // Stripe configuration
 define('STRIPE_SECRET_KEY', 'YOUR_STRIPE_SECRET_KEY');
 define('STRIPE_PUBLISHABLE_KEY', 'YOUR_STRIPE_PUBLISHABLE_KEY');
